@@ -1,0 +1,50 @@
+testTrajectory.x = 15.0
+testTrajectory.y = -20.0
+testTarget.x = 1100.0
+testTarget.y = 300.0
+------------------------------------
+testTrajectory.x = 17.0
+testTrajectory.y = -18.0
+testTarget.x = 1100.0
+testTarget.y = 300.0
+------------------------------------
+testTrajectory.x = 12.0
+testTrajectory.y = -22.0
+testTarget.x = 1040.0
+testTarget.y = 360.0
+------------------------------------
+testTrajectory.x = 15.0
+testTrajectory.y = -20.0
+testTarget.x = 1088.0
+testTarget.y = 300.0
+------------------------------------
+testTrajectory.x = 15.0
+testTrajectory.y = -20.0
+testTarget.x = 1046.0
+testTarget.y = 246.0
+------------------------------------
+testTrajectory.x = 13.0
+testTrajectory.y = -19.0
+testTarget.x = 1013.0
+testTarget.y = 381.0
+------------------------------------
+testTrajectory.x = 12.0
+testTrajectory.y = -22.0
+testTarget.x = 1046.0
+testTarget.y = 378.0
+------------------------------------
+testTrajectory.x = 8.0
+testTrajectory.y = -23.0
+testTarget.x = 800.0
+testTarget.y = 375.0
+------------------------------------
+testTrajectory.x = 20.0
+testTrajectory.y = -21.0
+testTarget.x = 1049.0
+testTarget.y = 60.0
+------------------------------------
+testTrajectory.x = 23.0
+testTrajectory.y = -14.0
+testTarget.x = 1331.0
+testTarget.y = 441.0
+------------------------------------
